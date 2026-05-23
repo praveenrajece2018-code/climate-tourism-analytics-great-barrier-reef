@@ -1,0 +1,43 @@
+﻿# Dataset files - excluded until redistribution permission is verified
+data/*.csv
+data/*.xlsx
+data/*.xls
+data/*.zip
+data/*.twbx
+
+
+# Raw data folders
+raw/
+data/raw/
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+
+# Logs and temporary files
+*.log
+*.tmp
+
+
+# System files
+.DS_Store
+Thumbs.db
