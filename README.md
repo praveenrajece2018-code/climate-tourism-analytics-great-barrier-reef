@@ -29,6 +29,7 @@ This project investigates how environmental stress indicators, together with eco
 - NumPy
 - scikit-learn
 - matplotlib
+- seaborn
 - Excel
 - Tableau
 - Regression Modeling
